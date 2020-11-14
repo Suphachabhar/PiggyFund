@@ -1,0 +1,18 @@
+.month_display {
+    background-color: white;
+    color: black;
+
+}
+
+.month {
+    font-size: 17px;
+    border: none;
+    border-radius: .5em;
+    
+    /* Remove default arrow */
+    cursor: pointer;
+    background-color: #fff;
+}
+
+
+
